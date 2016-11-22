@@ -1,4 +1,4 @@
-package clc.tool.models;
+package clc.tool.domain;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package clc.tool.models;
+package clc.tool.domain;
 
 import java.math.BigDecimal;
 import java.util.Date;
