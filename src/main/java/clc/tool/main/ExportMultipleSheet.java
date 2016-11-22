@@ -1,6 +1,6 @@
 package clc.tool.main;
 
-import clc.tool.models.Department;
+import clc.tool.domain.Department;
 import org.jxls.area.XlsArea;
 import org.jxls.command.Command;
 import org.jxls.command.EachCommand;

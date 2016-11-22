@@ -1,7 +1,7 @@
 package clc.tool.main;
 
-import clc.tool.models.Booking;
-import clc.tool.models.Employee;
+import clc.tool.domain.Booking;
+import clc.tool.domain.Employee;
 import org.apache.log4j.Logger;
 import org.jxls.common.Context;
 import org.jxls.util.JxlsHelper;
